@@ -15,5 +15,5 @@ To install a plugin:
 3. Launch a game!
 
 # 📜 Plugins
-- [SeraphBl](/SeraphBl/SeraphBl.py) - A plugin that allows you use the Seraph blacklist directly in the Overlay.
-- [AntisniperBl](/AntisniperBl/AntisniperBl.py) - A plugin that allows you use the Antisniper blacklist directly in the Overlay.
+- [SeraphBl](/SeraphBl/SeraphBl.py) - A plugin that allows you to use the Seraph blacklist directly in the Overlay.
+- [AntisniperBl](/AntisniperBl/AntisniperBl.py) - A plugin that allows you to use the Antisniper blacklist directly in the Overlay.
